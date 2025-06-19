@@ -10,3 +10,19 @@ Learn best practices for web application development
 Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
+# UI/UX design planning
+
+# Design goals
+Create intuitive booking flow
+Maintain visual consistency
+Ensure fast loading times
+Prioritize mobile responsiveness
+# Key features
+Property search and filtering
+Detailed property viewing
+Secure checkout process
+User authentication
+# Primary pages
+* property listing view
+* Listing detailed view
+* checkout
