@@ -43,3 +43,4 @@ Identifying the design properties of a mockup is an essential part of turning a 
 # Responsibilitues and roles
 | roles| responsibilities |
 |:-----|-----------------:|
+|project manager| oversees timeling, coordinates team, manages deliverrables|
